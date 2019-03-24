@@ -21,7 +21,6 @@ page 50104 "User Information Card"
                     begin
                         GetUserInfo();
                     end;
-
                 }
                 field(Name; Name)
                 {
@@ -47,10 +46,7 @@ page 50104 "User Information Card"
                     Editable = false;
 
                 }
-
-
             }
-
         }
     }
     var
